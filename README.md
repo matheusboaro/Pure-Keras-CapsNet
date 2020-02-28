@@ -1,6 +1,6 @@
 # Pure-Keras-CapsNet
 A CapsNet adaptation with keras, and using generators to feed the network
-This CapsNet implementation is based on the Xifeng Guo. You can acess the original in the link below:
+This CapsNet implementation is based on the Xifeng Guo. You can access the original in the link below:
 
 https://github.com/XifengGuo/CapsNet-Keras
 
